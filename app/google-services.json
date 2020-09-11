@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "603721950831",
+    "firebase_url": "https://pymeapp-741f2.firebaseio.com",
+    "project_id": "pymeapp-741f2",
+    "storage_bucket": "pymeapp-741f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603721950831:android:649dd8bd2fbea0256d0f9a",
+        "android_client_info": {
+          "package_name": "com.pucp.pymeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603721950831-dss6d5s1gpacbv56f3us6h50el5jv9th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMPXAGQCVMgKRJwSAJ-iUB5xJ-dVp1Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603721950831-dss6d5s1gpacbv56f3us6h50el5jv9th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603721950831:android:065b5adb5bfc7c356d0f9a",
+        "android_client_info": {
+          "package_name": "com.pucp.pymeappadmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603721950831-dss6d5s1gpacbv56f3us6h50el5jv9th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMPXAGQCVMgKRJwSAJ-iUB5xJ-dVp1Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603721950831-dss6d5s1gpacbv56f3us6h50el5jv9th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
